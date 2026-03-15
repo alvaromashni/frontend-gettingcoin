@@ -6,7 +6,9 @@
       "Bash(rm -rf \"/c/Users/alvin/projects/gettingcoin-temp\")",
       "Bash(npm install:*)",
       "Bash(npx tailwindcss:*)",
-      "Bash(npx shadcn@latest init --defaults)"
+      "Bash(npx shadcn@latest init --defaults)",
+      "Bash(npx shadcn@latest add card badge tabs table button select separator --overwrite)",
+      "Bash(npm run:*)"
     ]
   }
 }
