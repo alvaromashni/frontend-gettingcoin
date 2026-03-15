@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(cp -r \"/c/Users/alvin/projects/gettingcoin-temp/.\" \"/c/Users/alvin/projects/frontend-gettingcoin/\")",
+      "Bash(rm -rf \"/c/Users/alvin/projects/gettingcoin-temp\")",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npx shadcn@latest init --defaults)"
+    ]
+  }
+}
